@@ -1,6 +1,6 @@
 
 
-# README Generator
+# ReadMe Generator
 
 ## Description This is a CLI application that generates a professional README file according to the users input.
 
@@ -15,13 +15,16 @@
 * [Questions] (#questions)
 
 ## Installation 
-In the command line: 1. run "npm init" 2. enter your information to create the package.json file 3. run "npm install inquirer" 4. run "npm install good_readme_generator-week9-hw"
+In the command line run "npm install" to install dependencies then run "node index.js" to start the app.
 
 ## Usage 
-Provide answer to question when prompted.
+Provide answers to the questions asked.
+
+Here's a video walkthrough for help:
+https://drive.google.com/file/d/15UAJDVybMCo_c8TgZFtOVLxTpoAt2qfE/view 
 
 ## License 
-
+MIT
 
 ## Contributing 
 

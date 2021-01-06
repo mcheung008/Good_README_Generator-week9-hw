@@ -108,7 +108,7 @@ Please contact me via Email for questions or advice: mcheung008@gmail.com
 
 `
 }
-
+// NOTES: I couldn't get the license badge generator to work
 
 
 promptUser()
