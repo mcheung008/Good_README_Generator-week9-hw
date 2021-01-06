@@ -77,8 +77,6 @@ function generateReadMe(answers) {
 
 ## Description ${answers.projectDescription}
 
-## Table of Contents 
-
 ## Table of Contents
 * [Installation] (#installation)
 * [Usage] (#usage)

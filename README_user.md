@@ -23,6 +23,9 @@ Provide answers to the questions asked.
 Here's a video walkthrough for help:
 https://drive.google.com/file/d/15UAJDVybMCo_c8TgZFtOVLxTpoAt2qfE/view 
 
+Screenshot for reference:
+![screenshot](/assets/img/screenshot.png)
+
 ## License 
 MIT
 
