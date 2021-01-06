@@ -1,0 +1,22 @@
+{
+  "name": "good_readme_generator-week9-hw",
+  "version": "1.0.0",
+  "description": "an application to help the user generate a professional looking ReadMe file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcheung008/Good_README_Generator-week9-hw.git"
+  },
+  "author": "mcheung008",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcheung008/Good_README_Generator-week9-hw/issues"
+  },
+  "homepage": "https://github.com/mcheung008/Good_README_Generator-week9-hw#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
