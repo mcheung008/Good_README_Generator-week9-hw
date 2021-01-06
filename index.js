@@ -73,36 +73,40 @@ function promptUser() {
 function generateReadMe(answers) {
     return `
 
-    # ${answers.projectTitle}
+# ${answers.projectTitle}
 
-    ## Description ${answers.projectDescription}
+## Description ${answers.projectDescription}
 
-    ## Table of Contents 
+## Table of Contents 
 
-    ## Table of Contents
-    * [Installation] (#installation)
-    * [Usage] (#usage)
-    * [License] (#license)
-    * [Contributing] (#contributing)
-    * [Tests] (#tests)
-    * [Questions] (#questions)
+## Table of Contents
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contributing] (#contributing)
+* [Tests] (#tests)
+* [Questions] (#questions)
 
-    ## Installation 
-    ${answers.installationProcess}
+## Installation 
+${answers.installationProcess}
 
-    ## Usage ${answers.instruction}
+## Usage 
+${answers.instruction}
 
-    ## License ${answers.license}
+## License 
+${answers.license}
 
-    ## Contributing ${answers.contribution}
+## Contributing 
+${answers.contribution}
 
-    ## Tests ${answers.test}
+## Tests 
+${answers.test}
 
-    ## Questions  
+## Questions  
 
-    Please contact me via Email for questions or advice: mcheung008@gmail.com
+Please contact me via Email for questions or advice: mcheung008@gmail.com
 
-    `
+`
 }
 
 
